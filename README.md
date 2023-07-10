@@ -7,4 +7,4 @@ I wrote this a while ago, so the dependencies are probably all out of date, and 
 
 Also, you'll have to boot up a MySQL instance and tinker with the configurations inside the `DBConnection#initialize` method.
 
-You can read my blog post about implementing the Minimax algorithm with alpha beta pruning in the context of a chess AI [here](https://thenullproject.com/page.html?fetchpost=3). If you're keen enough, the blog post also has a link to my old design document for this project that you can read through.
+You can read my blog post about implementing the Minimax algorithm with alpha beta pruning in the context of a chess AI [here](https://dyluc.github.io/2020/12/08/chess-ai-minimax.html). If you're keen enough, the blog post also has a link to my old design document for this project that you can read through.
